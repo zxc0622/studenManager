@@ -5,7 +5,7 @@ public class User {
 	private String name;
 	private String password;
 	
-	// 1 表示老师身份 2表示学生身份
+	// 1 表示老师身份 0表示学生身份
 	private Integer role;
 
 	public Integer getId() {
