@@ -1,7 +1,6 @@
 package com.student.manager.beans;
 
 public class Classes {
-
 	private Integer id;
 	private String className;
 	public Integer getId() {
